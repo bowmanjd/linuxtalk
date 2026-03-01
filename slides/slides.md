@@ -20,7 +20,7 @@ duration: 40min
 # Confessions of a Distro-Hopper
 
 <div class="smalltux">
-	<img src="/tux.svg" alt="Tux">
+	<img src="/tux-outline.svg" alt="Tux">
 </div>
 
 A Linux Group Session
@@ -38,7 +38,76 @@ backgroundSize: contain
 ---
 
 <!--
-Linux is many things
+Linux is many things...
 -->
+
+---
+layout: image
+image: /kernel.png
+backgroundSize: contain
 ---
 
+<!--
+At the very least, it is a system that uses the Linux kernel.
+-->
+
+---
+layout: image
+image: /other-os.svg
+backgroundSize: contain
+---
+
+<!--
+Funny, though. Some of you who don't use the Linux kernel are still going to feel quite at home with at least 80-90% of our conversation today. These other operating systems have different kernel's but there is overlap in culture, methods, and vision.
+-->
+
+---
+layout: image
+image: /shrug2.svg
+backgroundSize: contain
+---
+
+<!--
+So, where are we going here?
+-->
+
+---
+layout: image
+image: /c64.gif
+backgroundSize: contain
+---
+
+<!--
+This is not Linux, but it primed me for Linux. The K-Mart in E-town had a computer department. This is where my brother and I went while the rest of the family shopped. And this is what was there. An open keyboard and a blinking cursor. And a few books on a shelf. Eventually the C64 and one of the books showed up under the tree at Christmas and we had this blinking cursor -- this invitation to build, because there was nothing else to do with it. I spent years with that machine, learning to program in Basic, LOGO, Assembly...
+-->
+
+---
+layout: image
+image: /tux.svg
+backgroundSize: contain
+class: bg-cyan
+---
+
+<!--
+Fast forward to 1999.
+-->
+
+---
+layout: image
+image: /redhat52.png
+backgroundSize: contain
+---
+
+<!--
+Redhat default desktop. A little Clunky
+-->
+
+---
+layout: image
+image: /mandrake.png
+backgroundSize: contain
+---
+
+<!--
+I soon switched distributions to Mandrake 5.3. This was Redhat 5.2 mixed with the rather new KDE desktop environment.
+-->

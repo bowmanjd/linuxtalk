@@ -11,7 +11,7 @@ p {
 }
 
 body::after {
-	content: 'llms.bowmanjd.com';
+	content: 'linuxtalk.bowmanjd.com';
 	position: fixed;
 	top: 10px;
 	right: 3.5rem;
@@ -49,9 +49,9 @@ code.language-ansi {
 }
 
 .smalltux img {
-	background-color: lightblue;
-	border-radius: 1rem;
-	padding: 0.5rem;
+	/* background-color: lightblue; */
+	/* border-radius: 1rem; */
+	/* padding: 0.5rem; */
 	height: 10vmax;
 }
 
