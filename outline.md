@@ -1,11 +1,19 @@
+Goals:
+- nostalgia
+- invitation to tinker, and embrace tools that invite you to tinker
+- how to get started
+
+---
+
 What is Linux? Shrug
 
 In the beginning was the command line
 
 Take commercial breaks! Audience supplies the commercials
+- First distribution and how you obtained it
 - Current favorite distro
-- Smallest device you have seen Linux on
-- Weirdest device you have seen Linux on
+- Smallest/Weirdest device you have seen Linux on
+- Rabbit holes (like Yocto, Buildroot, Open-WRT)
 
 ---
 
