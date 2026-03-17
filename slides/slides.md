@@ -93,6 +93,16 @@ Fast forward to 1999. Someone told me about Linux. I was an English major, and i
 -->
 
 ---
+layout: image
+image: /tools.svg
+backgroundSize: contain
+---
+
+<!--
+It's the tinkering. The invitation to tinker. And the way tools can shape us, so we should ask what shape we want to be in, and then feel free to choose tools that shape us in that way. I want to be a tinkerer. I hope that all of us could become a little more tinkering. And Linux, like other open, malleable tools, does that.
+-->
+
+---
 layout: quote
 ---
 
@@ -123,3 +133,14 @@ backgroundSize: contain
 <!--
 I soon switched distributions to Mandrake 5.3. This was Redhat 5.2 mixed with the rather new KDE desktop environment.
 -->
+
+---
+layout: image
+image: /distrobox.png
+backgroundSize: contain
+---
+
+<!--
+And here we are today, running NixOS and others
+-->
+
