@@ -1,3 +1,5 @@
+# If operating systems were airlines
+
 ## MS-DOS Airlines (not that many of us use MS-DOS in the 21st Century)
 
 Everybody pushes the airplane until it glides, then they jump on and let the plane coast until it hits the ground again, then they push again jump on again, and so on.
@@ -10,7 +12,7 @@ The terminal is pretty and colorful, with friendly stewards, easy baggage check 
 
 Just like Windows Air, but costs more, uses much bigger planes, and takes out all the other aircraft within a 40-mile radius when it explodes.
 
-# Mac Airlines
+## Mac Airlines
 
 All the stewards, stewardesses, captains, baggage handlers, and ticket agents look the same, act the same, and talk the same. Every time you ask questions about details, you are told you don’t need to know, don’t want to know, and would you please return to your seat and watch the movie.
 

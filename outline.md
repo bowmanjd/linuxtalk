@@ -1,11 +1,26 @@
 Goals:
-- nostalgia
+- nostalgia and courage
 - invitation to tinker, and embrace tools that invite you to tinker
 - how to get started
 
 ---
 
-What is Linux? Shrug
+- Questions I will ask throughout...
+- What is Linux? Shrug
+- The kernel... or the ecosystem, culture?
+- metaphors and stories
+- Story about C64 -> Linux
+- Invitation to tinker
+- Daily driver as a way to accelerate tinkering (Linux is great for servers, but to learn servers...)
+- By the way... minimalism
+- obtaining Linux the classic way -- download it, or ask a friend to
+- break: First distribution and how you obtained it (Slackware floppies? Easiest way?)
+- wade in: wsl, utm, lima, colima, distrobox, podman, docker, distrobox, ProxMox, cockpit, Incus, virt-manager, hyper-v, multipass
+- Things to try: web server, local language models, file server, router, home automation, Kubernetes cluster
+- The cloud
+- self-hosted
+- The weird and the small: Buildroot, Yocto, Open-Wrt
+- Raspberry Pi
 
 In the beginning was the command line
 
@@ -14,6 +29,7 @@ Take commercial breaks! Audience supplies the commercials
 - Current favorite distro
 - Smallest/Weirdest device you have seen Linux on
 - Rabbit holes (like Yocto, Buildroot, Open-WRT)
+- What do you like to use on Linux?
 
 ---
 
