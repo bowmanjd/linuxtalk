@@ -26,6 +26,29 @@ duration: 40min
 A Linux Group Session
 
 ---
+layout: image
+image: /Airplane-globe.svg
+backgroundSize: contain
+---
+
+<!--
+If operating systems were airlines... A glimpse of what it was like when Linux first became popular
+-->
+
+---
+
+# Questions you might answer throughout
+
+- Story about installing Slackware from floppy disks?
+- Longest time waiting for Gentoo to compile?
+- How did you obtain your first Linux distribution?
+- I was surprised to see Linux on...
+- Current favorite/interesting distro?
+- You should try installing/using ________ on Linux
+- Smallest device you have seen Linux on?
+- Adventurous Linux (I installed Linux on my showerhead!)
+
+---
 layout: section
 ---
 
@@ -69,6 +92,16 @@ backgroundSize: contain
 
 <!--
 So, where are we going here?
+-->
+
+---
+layout: image
+image: /in-the-beginning-was-the-command-line.jpg
+backgroundSize: contain
+---
+
+<!--
+I am going to read this
 -->
 
 ---
