@@ -37,7 +37,7 @@ If operating systems were airlines... A glimpse of what it was like when Linux f
 
 ---
 
-# Questions you might answer throughout
+# Questions you might answer
 
 - Story about installing Slackware from floppy disks?
 - Longest time waiting for Gentoo to compile?
@@ -126,16 +126,6 @@ Fast forward to 1999. Someone told me about Linux. I was an English major, and i
 -->
 
 ---
-layout: image
-image: /tools.svg
-backgroundSize: contain
----
-
-<!--
-It's the tinkering. The invitation to tinker. And the way tools can shape us, so we should ask what shape we want to be in, and then feel free to choose tools that shape us in that way. I want to be a tinkerer. I hope that all of us could become a little more tinkering. And Linux, like other open, malleable tools, does that.
--->
-
----
 layout: quote
 ---
 
@@ -146,6 +136,16 @@ random post from alt.os.linux, Sep 2, 1998, 3am
 > Is this really reliable ???<br>
 ><br>
 > Thx to responces ...
+
+---
+layout: image
+image: /tools.svg
+backgroundSize: contain
+---
+
+<!--
+For me, the thing about Linux is the tinkering. The invitation to tinker. Tools can shape us, so we should ask what shape we want to be in, and then feel free to choose tools that shape us in that way. I want to be a tinkerer. I hope that all of us could become a little more tinkering. And Linux, like other open, malleable tools, does that.
+-->
 
 ---
 layout: image
@@ -177,3 +177,83 @@ backgroundSize: contain
 And here we are today, running NixOS and others
 -->
 
+---
+layout: image
+image: /daily-driver.svg
+backgroundSize: contain
+---
+
+<!--
+An opportunity, a consideration: make Linux your daily driver for a season
+-->
+
+---
+layout: image
+image: /home-is-where.png
+backgroundSize: contain
+---
+
+<!--
+Home is where my web browser and terminal are
+-->
+
+---
+layout: image
+image: /minimal.png
+backgroundSize: contain
+---
+
+<!--
+Here is my desktop. One of the appealing things about Linux for me is you can remove everything you don't need.
+-->
+
+---
+layout: image
+image: /minimal2.png
+backgroundSize: contain
+---
+
+<!--
+Here is my desktop. One of the appealing things about Linux for me is you can remove everything you don't need.
+-->
+
+---
+layout: two-cols
+---
+
+```
+/data/
+/data/.config/
+/data/.config/rustdesk/
+/data/.config/rustdesk/RustDesk.toml
+/data/db_v2.sqlite3
+/data/db_v2.sqlite3-shm
+/data/db_v2.sqlite3-wal
+/data/id_ed25519
+/data/id_ed25519.pub
+/dev/
+/etc/
+/etc/group
+/etc/hostname
+```
+
+::right::
+
+```
+/etc/hosts
+/etc/mtab
+/etc/passwd
+/etc/resolv.conf
+/proc/
+/run/
+/run/.containerenv
+/sys/
+/usr/
+/usr/bin/
+/usr/bin/hbbr
+/usr/bin/hbbs
+```
+
+<!--
+Minimalism can take on many forms: here is a Linux container, a full OS (other than the kernel and accoutrements) in 17 files.
+-->

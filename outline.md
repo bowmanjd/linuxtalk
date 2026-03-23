@@ -2,6 +2,7 @@ Goals:
 - nostalgia and courage
 - invitation to tinker, and embrace tools that invite you to tinker
 - how to get started
+- avenues to explore or share you have explored
 
 ---
 
