@@ -39,13 +39,13 @@ If operating systems were airlines... A glimpse of what it was like when Linux f
 
 # Questions you might answer
 
+- I was surprised to see Linux on...
 - Story about installing Slackware from floppy disks?
 - Longest time waiting for Gentoo to compile?
+- Smallest device you have seen Linux on?
 - How did you obtain your first Linux distribution?
-- I was surprised to see Linux on...
 - Current favorite/interesting distro?
 - You should try installing/using ________ on Linux
-- Smallest device you have seen Linux on?
 - Adventurous Linux (I installed Linux on my showerhead!)
 
 ---
@@ -75,13 +75,21 @@ At the very least, it is a system that uses the Linux kernel.
 -->
 
 ---
+layout: fact
+---
+
+I was surprised to see Linux on...{.biggie}
+
+<!-- Anyone seen Linux used in the wild in a surprising way? I noticed Linux on our coffee machine at work... -->
+
+---
 layout: image
 image: /other-os.svg
 backgroundSize: contain
 ---
 
 <!--
-Funny, though. Some of you who don't use the Linux kernel are still going to feel quite at home with at least 80-90% of our conversation today. These other operating systems have different kernel's but there is overlap in culture, methods, and vision.
+So Linux is definitely Linux if it has the Linux kernel on it. Funny, though. Some of you who don't use the Linux kernel are still going to feel quite at home with at least 80-90% of our conversation today. These other operating systems have different kernel's but there is overlap in culture, methods, and vision.
 -->
 
 ---
@@ -138,6 +146,12 @@ random post from alt.os.linux, Sep 2, 1998, 3am
 > Thx to responces ...
 
 ---
+layout: fact
+---
+
+Ever installed Linux from floppies?{.biggie}
+
+---
 layout: image
 image: /tools.svg
 backgroundSize: contain
@@ -176,6 +190,12 @@ backgroundSize: contain
 <!--
 And here we are today, running NixOS and others
 -->
+
+---
+layout: fact
+---
+
+Longest time waiting for Linux to install/recompile?{.biggie}
 
 ---
 layout: image
@@ -275,12 +295,18 @@ Minimalism can take on many forms: here is the contents of a Linux container, a 
 -->
 
 ---
+layout: fact
+---
+
+Smallest device you have seen Linux on?{.biggie}
+
+---
 layout: section
 ---
 
 Where from? Where to?{.biggie}
 
-<!-- how to you obtain Linux and then where do you put it? -->
+<!-- how do you obtain Linux and then where do you put it? -->
 
 ---
 layout: image-left
@@ -295,6 +321,12 @@ backgroundSize: contain
 - May already have it
 
 <!-- If you don't have great Internet, find someone who does, or download it, or just launch it -->
+
+---
+layout: fact
+---
+
+How did you obtain your first Linux distribution?{.biggie}
 
 ---
 layout: image
@@ -365,6 +397,12 @@ backgroundSize: contain
 ---
 
 ---
+layout: fact
+---
+
+Shout-out to a distro of your choice?{.biggie}
+
+---
 
 Where do I put it?{.biggie}
 
@@ -413,10 +451,35 @@ image: /proxmox.svg
 backgroundSize: contain
 ---
 
+<!--
+If you have a machine with some decent hard drive space and RAM, you may find that proxmox offers a powerful and convenient way to host and experiment.
+-->
+
 ---
 layout: image
 image: /proxmox.png
 backgroundSize: contain
+---
+
+<!--
+You can spin up and configure VMs or persistent containers easily. You can connect to them remotely, even with a full graphical user interface.
+-->
+
+---
+
+## Containers
+
+docker, podman, nerdctl, colima, rancher...
+
+- [hub.docker.com](https://hub.docker.com/)
+- [GitHub](https://github.com/search?type=registrypackages)
+
+![Podman](/podman.svg)
+
+<!--
+All of these run a mini Linux OS (or many!) and typically a single container provides one tool or service, but they provide a great way to dice and slice Linux
+-->
+
 ---
 
 ---
