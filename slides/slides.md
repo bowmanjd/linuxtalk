@@ -184,8 +184,14 @@ backgroundSize: contain
 ---
 
 <!--
-An opportunity, a consideration: make Linux your daily driver for a season
+An opportunity, a consideration: make Linux your daily driver for a season. And lean in to the tinkering.
 -->
+
+---
+layout: section
+---
+
+Minimalism{.biggie}
 
 ---
 layout: image
@@ -214,7 +220,17 @@ backgroundSize: contain
 ---
 
 <!--
-Here is my desktop. One of the appealing things about Linux for me is you can remove everything you don't need.
+Where your browser and your terminal are...
+-->
+
+---
+layout: image
+image: /4panes.png
+backgroundSize: contain
+---
+
+<!--
+Just focus on as many things as you want to do but little else.
 -->
 
 ---
@@ -255,5 +271,158 @@ layout: two-cols
 ```
 
 <!--
-Minimalism can take on many forms: here is a Linux container, a full OS (other than the kernel and accoutrements) in 17 files.
+Minimalism can take on many forms: here is the contents of a Linux container, a full OS (other than the kernel and accoutrements) in 15 files and a few directories.
 -->
+
+---
+layout: section
+---
+
+Where from? Where to?{.biggie}
+
+<!-- how to you obtain Linux and then where do you put it? -->
+
+---
+layout: image-left
+image: /linuxfloppy.jpg
+backgroundSize: contain
+---
+
+# Obtaining
+
+- Borrow it
+- Download it
+- May already have it
+
+<!-- If you don't have great Internet, find someone who does, or download it, or just launch it -->
+
+---
+layout: image
+image: /fedoradownload.png
+backgroundSize: contain
+---
+
+<!--
+Find your distro of choice, go to their web page, learn how to install it
+-->
+
+---
+
+What distro do I choose?{.biggie}
+
+---
+layout: image
+image: /fedora1.svg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /fedora2.svg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /fedora3.svg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /fedora4.svg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /fedora5.svg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /fedora6.svg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /fedora7.svg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /choose-linux-infographic.jpg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /nixos.svg
+backgroundSize: contain
+---
+
+---
+
+Where do I put it?{.biggie}
+
+---
+layout: image
+image: /se30.jpg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /raspberry-pi.jpg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /asahi.svg
+backgroundSize: contain
+---
+
+---
+layout: two-cols
+---
+
+## Virtualization on Mac
+
+- UTM
+- Lima
+
+## Virtualization on Windows
+
+- WSL
+- Hyper-V
+
+::right::
+
+## Virtualization on Linux
+
+- Distrobox
+- Virt-manager
+
+---
+layout: image
+image: /proxmox.svg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /proxmox.png
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /lancasterlug.png
+backgroundSize: contain
+---
+
+---
