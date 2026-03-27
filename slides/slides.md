@@ -638,10 +638,6 @@ layout: two-cols
 - UTM
 - Lima
 
-<!--
-Virtualization and/or containers provide a great way to "wade in"
--->
-
 ## Virtualization on Windows
 
 - WSL
@@ -653,6 +649,10 @@ Virtualization and/or containers provide a great way to "wade in"
 
 - Distrobox
 - Virt-manager
+
+<!--
+Virtualization and/or containers provide a great way to "wade in" -- you keep your existing OS as is, and then you launch Linux inside of it. But I hope you might consider making Linux your daily driver. On a Mac, UTM is a great free vm management tool. Lima is as well, and behaves more like WSL. Speaking of which, that is Windows Subsystem for Linux -- the best way to run Linux on Windows. It is fast, easy, and has official support from several distros. On Linux, I really love playing around with distrobox -- fast and lightweight because it uses containers, not VMs.
+-->
 
 ---
 layout: image
@@ -671,7 +671,7 @@ backgroundSize: contain
 ---
 
 <!--
-You can spin up and configure VMs or persistent containers easily. You can connect to them remotely, even with a full graphical user interface.
+ This is our proxmox that lives in our basement. You can spin up and configure VMs or persistent containers easily. You can connect to them remotely, even with a full graphical user interface.
 -->
 
 ---
@@ -686,7 +686,7 @@ docker, podman, nerdctl, colima, rancher...
 ![Podman](/podman.svg)
 
 <!--
-All of these run a mini Linux OS (or many!) and typically a single container provides one tool or service, but they provide a great way to dice and slice Linux
+I have mentioned containers many times. Docker and its successors run a mini Linux OS (or many!) and typically a single container provides one tool or service, but they provide a great way to dice and slice Linux
 -->
 
 ---
