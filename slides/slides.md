@@ -559,6 +559,7 @@ backgroundSize: contain
 
 <!--
 By the way. I use Nix. By the way.
+In all seriousness, if you want a recommendation for a good distro, try Fedora. It fits the audience here, it is current, and very user friendly. Ubuntu is another great option to start with. If you are doing something that needs more stability, Ubuntu LTS or AlmaLinux are some great options. But what I really hope you do is go on a days-long click spiral exploring different distros, then load some of them into a VM and see what you like, then live with one for some time, then switch. All the while, share with others ask questions. You'll be better for it. Tech Lancaster slack.
 -->
 
 ---
@@ -712,6 +713,12 @@ layout: two-cols
 - Karakeep (previously Hoarder)
 - Open WebUI, Librechat
 - llama.cpp, Ollama, vLLM
+
+<!--
+
+Self-hosting is just whole-house and whole-life tinkering. You can learn so much, so much that is of benefit to you, your family and friends, your present and future co-workers and employers. You can use really good services that are ad-free and likely even work when your Internet is down. And you can decide what isn't worth the trouble, and be grateful for whatever parts of the cloud you find life-giving.
+
+-->
 
 ---
 layout: section
