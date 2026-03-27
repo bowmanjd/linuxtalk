@@ -357,7 +357,7 @@ backgroundSize: contain
 ---
 
 <!--
-An opportunity, a consideration: make Linux your daily driver for a season. And lean in to the tinkering. TODO: make this a story.
+An opportunity, a consideration: make Linux your daily driver for a season. And lean in to the tinkering. In my early experience with Linux, I remember the untethered feeling when I stopped dual booting Linux and Windows, and just went whole hog Linux. If there was a gap, like missing fonts or slow video acceleration, or poor Wi-Fi performance, I had to get my hands dirty in Linux and figure it out. Or when I did the same at one workplace years later. With a Linux laptop, I had to figure out an easy way to enter a meeting room, plug in my laptop, and have the monitors work at the correct resolution. And that's when I learned about Wayland, and dropped X. The outcome every time is that I learned not one skill but many, frankly marketable skills, from that one simple choice.
 -->
 
 ---
@@ -373,7 +373,7 @@ backgroundSize: contain
 ---
 
 <!--
-Home is where my web browser and terminal are
+Not a big fan of generated images in presentations, but isn't it cute -- all I prompted was "Home is where my web browser and terminal are" and out came a picture of me. See the little Tux picture? So adorable. But the real point is -- if you are someone who thinks that you don't actually need that much stuff on your computer, Linux allows you to go minimalist to an unusually high degree.
 -->
 
 ---
@@ -444,7 +444,7 @@ layout: two-cols
 ```
 
 <!--
-Minimalism can take on many forms: here is the contents of a Linux container, a full OS (other than the kernel and accoutrements) in 15 files and a few directories.
+Minimalism can take on many forms: here is the contents of a Linux container, a full OS (other than the kernel and accoutrements) in 15 files and a few directories. The is the Rustdesk proxy so that I can connect, screenshare, and control my parents' computers.
 -->
 
 ---
@@ -452,6 +452,10 @@ layout: fact
 ---
 
 Smallest device you have seen Linux on?{.biggie}
+
+<!--
+Speaking of minimalism...
+-->
 
 ---
 layout: section
@@ -473,7 +477,7 @@ backgroundSize: contain
 - Download it
 - May already have it
 
-<!-- If you don't have great Internet, find someone who does, or download it, or just launch it -->
+<!-- If you don't have great Internet, find someone who does, or download it, or just launch it. Chromebooks have it already, Windows Subsystem for Linux (WSL) will download and guide you through configuration. -->
 
 ---
 layout: fact
@@ -501,11 +505,19 @@ image: /fedora1.svg
 backgroundSize: contain
 ---
 
+<!--
+There are...
+-->
+
 ---
 layout: image
 image: /fedora2.svg
 backgroundSize: contain
 ---
+
+<!--
+so many...
+-->
 
 ---
 layout: image
@@ -513,11 +525,19 @@ image: /fedora3.svg
 backgroundSize: contain
 ---
 
+<!--
+good options...
+-->
+
 ---
 layout: image
 image: /fedora4.svg
 backgroundSize: contain
 ---
+
+<!--
+Explore and experiment...
+-->
 
 ---
 layout: image
@@ -525,11 +545,19 @@ image: /fedora5.svg
 backgroundSize: contain
 ---
 
+<!--
+And you
+-->
+
 ---
 layout: image
 image: /fedora6.svg
 backgroundSize: contain
 ---
+
+<!--
+will surely
+-->
 
 ---
 layout: image
@@ -537,17 +565,29 @@ image: /fedora7.svg
 backgroundSize: contain
 ---
 
+<!--
+choose well
+-->
+
 ---
 layout: image
 image: /choose-linux-infographic.jpg
 backgroundSize: contain
 ---
 
+<!--
+Found this. A little dated, but not too bad. Let's follow the Linux track...
+-->
+
 ---
 layout: image
 image: /nixos.svg
 backgroundSize: contain
 ---
+
+<!--
+By the way. I use Nix. By the way.
+-->
 
 ---
 layout: fact
@@ -565,17 +605,29 @@ image: /se30.jpg
 backgroundSize: contain
 ---
 
+<!--
+Linux is great for old computers you have lying around, or you can help your friends de-clutter by taking their trash.
+-->
+
 ---
 layout: image
 image: /raspberry-pi.jpg
 backgroundSize: contain
 ---
 
+<!--
+You can buy a new computer for Linux
+-->
+
 ---
 layout: image
 image: /asahi.svg
 backgroundSize: contain
 ---
+
+<!--
+Yes, Linux will work great on your Macbook or Mini.
+-->
 
 ---
 layout: two-cols
@@ -585,6 +637,10 @@ layout: two-cols
 
 - UTM
 - Lima
+
+<!--
+Virtualization and/or containers provide a great way to "wade in"
+-->
 
 ## Virtualization on Windows
 
