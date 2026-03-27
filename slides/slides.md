@@ -23,7 +23,7 @@ duration: 40min
 	<img src="/tux-outline.svg" alt="Tux">
 </div>
 
-A Linux Group Session
+An Invitation to Tinker
 
 <!--
 
@@ -31,43 +31,8 @@ Good morning and welcome. I am Jonathan Bowman. I started using Linux in 1999. I
 -->
 
 ---
-layout: image
-image: /Airplane-globe.svg
-backgroundSize: contain
----
 
-<!--
-If operating systems were airlines... A glimpse of what it was like when Linux first became popular... Some of this is no longer accurate or fair. Windows is not as bad as it used to be. In fact, Windows is a great way to run Linux. Mac OS feels a little Linux-y, but with more rounded corners.
-
-In spite of the shiftin landscape over time, I still think you will find this entertaining.
-
-# If operating systems were airlines
-
-## MS-DOS Airlines
-
-Everybody pushes the airplane until it glides, then they jump on and let the plane coast until it hits the ground again, then they push again jump on again, and so on.
-
-## Windows Air
-
-The terminal is pretty and colorful, with friendly stewards, easy baggage check and boarding, and a smooth take-off.  After about 10 minutes in the air, the plane explodes with no warning whatsoever.
-
-## Windows NT Air
-
-Just like Windows Air, but costs more, uses much bigger planes, and takes out all the other aircraft within a 40-mile radius when it explodes.
-
-## Mac Airlines
-
-All the flight attendants, captains, baggage handlers, and ticket agents look the same, act the same, and talk the same. Every time you ask questions about details, you are told you don’t need to know, don’t want to know, and would you please return to your seat and watch the movie.
-
-## Unix Airlines
-
-Each passenger brings a piece of the airplane and a box of tools to the airport. They gather on the tarmac, arguing constantly about what kind of plane they want to build and how to put it together. Eventually, they build several different aircraft, but give them all the same name. Some passengers actually reach their destinations. All passengers believe they got there.
-
-## Linux Airlines
-
-Disgruntled employees of all the other OS airlines decide to start their own airline. They build the planes, ticket counters, and pave the runways themselves. They charge a small fee to cover the cost of printing the ticket, but you can also download and print the ticket yourself. When you board the plane, you are given a seat, four bolts, a wrench and a copy of the `seat-HOWTO.html`. Once settled, the fully adjustable seat is very comfortable, the plane leaves and arrives on time without a single problem, the in-flight meal is wonderful. You try to tell customers of the other airlines about the great trip, but all they can say is, “You had to do what with the seat?”
-
--->
+<Toc minDepth="1" maxDepth="1" />
 
 ---
 
@@ -78,7 +43,8 @@ Disgruntled employees of all the other OS airlines decide to start their own air
 - Challenges getting Linux to install/compile?
 - Smallest device you have seen Linux on?
 - How did you obtain your first Linux distribution?
-- Current favorite/interesting distro?
+- Current favorite/interesting/recommended distro?
+- Apps and services to host on Linux?
 - Adventurous Linux (I installed Linux on my showerhead!)
 - Stump the chumps (Linux problems you encounter)
 
@@ -90,7 +56,7 @@ I hope to have some story-telling from you during our time together. We will eng
 layout: section
 ---
 
-What is Linux?{.biggie}
+# What is Linux?
 
 <!--
 Let's start with an honest and strangely tricky question... What is Linux?
@@ -165,6 +131,12 @@ backgroundSize: contain
 
 <!--
 To get a bit of a feel of what might attract people to Linux, what makes Linux culture unique, and how Linux culture has changed, I am going to read an excerpt from Neil Stephenson's book _In the Beginning was the Command Line_
+
+A glimpse of what it was like when Linux first became popular... Some of this is no longer accurate or fair. Windows is not as bad as it used to be. In fact, Windows is a great way to run Linux. Mac OS feels a lot more customizable and Linux-y, but with more rounded corners.
+
+In spite of the shiftin landscape over time, I still think you will find this entertaining and relevant.
+
+<hr>
 
 Imagine a crossroads where four competing auto dealerships are situated. One of
 them (Microsoft) is much, much bigger than the others. It started out years ago
@@ -307,7 +279,7 @@ backgroundSize: contain
 ---
 
 <!--
-For me, the thing about Linux is the tinkering. The invitation to tinker. Tools can shape us, so we should ask what shape we want to be in, and then feel free to choose tools that shape us in that way. I want to be a tinkerer, someone who makes old and broken things work again, and invents new tools and toys. In fact, I hope that all of us could become a little more tinkering. And Linux, like other open, malleable tools, invites us to be that. Tinkerers.
+For me, the thing about Linux is the tinkering. The invitation to tinker. Tools can shape us, so we should ask what shape we want to be in, and then feel free to choose tools that shape us in that way. I want to be a tinkerer, and I like to be with tinkerers, because there is already so much consumption and I find creation to be a refreshing counterpoint to that, and because there is so much to discover in the big and the small parts of the universe so why not pause and dig in and inspect and reflect rather than just use and be used, and because I think to serve each other well with kindness and care requires ingenuity and resourcefulness. I want to be someone who makes old and broken things work again, and maybe even invents or adapts new tools and toys, after taking them apart of course. In fact, I hope that all of us could become a little more tinkering. And Linux, like other open, malleable tools, invites us to be that. Tinkerers.
 -->
 
 ---
@@ -364,7 +336,7 @@ An opportunity, a consideration: make Linux your daily driver for a season. And 
 layout: section
 ---
 
-Minimalism{.biggie}
+# Minimalism
 
 ---
 layout: image
@@ -461,7 +433,7 @@ Speaking of minimalism...
 layout: section
 ---
 
-Where from? Where to?{.biggie}
+# Where to get Linux? Which distro? Where to put it?
 
 <!-- how do you obtain Linux and then where do you put it? -->
 
@@ -471,7 +443,7 @@ image: /linuxfloppy.jpg
 backgroundSize: contain
 ---
 
-# Obtaining
+## Obtaining
 
 - Borrow it
 - Download it
@@ -497,7 +469,7 @@ Find your distro of choice, go to their web page, learn how to install it
 
 ---
 
-What distro do I choose?{.biggie}
+Which distro?{.biggie}
 
 ---
 layout: image
@@ -690,10 +662,62 @@ I have mentioned containers many times. Docker and its successors run a mini Lin
 -->
 
 ---
-layout: fact
+layout: section
 ---
 
-Off the beaten path Linux{.biggie}
+# What apps/services are good to use on Linux?
+
+---
+
+## The Usual
+
+- Firefox, Chromium, Chrome, Brave, Edge
+- So. Many. Terminals.
+- Inkscape, Gimp, Krita, Blender
+- OBS Studio, VLC, Haruna, Audacity
+- Steam, Aisleriot, Colossal Cave Adventure
+- Calibre
+- OpenOffice
+- Many more
+
+---
+
+## The Unique
+
+- Waydroid
+
+---
+
+## Command Line apps
+
+All of them are awesome on Linux
+
+---
+layout: two-cols
+---
+
+## Self-hosting
+
+- Web servers: Nginx, Caddy
+- Proxmox, Komodo, Portainer, Cockpit
+- Password manager: Vaultwarden
+- VPN (Wireguard, Tailscale, Nebula)
+- Jellyfin
+- Immich
+
+::right::
+
+- Nextcloud
+- Home Assistant
+- Karakeep (previously Hoarder)
+- Open WebUI, Librechat
+- llama.cpp, Ollama, vLLM
+
+---
+layout: section
+---
+
+# Off-the-beaten-path Linux
 
 ---
 layout: image
